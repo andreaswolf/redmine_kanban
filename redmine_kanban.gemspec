@@ -49,6 +49,7 @@ Gem::Specification.new do |s|
      "config/routes.rb",
      "init.rb",
      "lang/en.yml",
+     "lang/de.yml",
      "lib/redmine_kanban/issue_patch.rb",
      "lib/redmine_kanban/kanban_compatibility.rb",
      "lib/tasks/plugin_stat.rake",
